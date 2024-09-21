@@ -7,7 +7,8 @@ The Player controls a paddle at the bottom of the screen and bouncing balls to d
 Completing a level requires breaking all the bricks without letting the ball fall out of the screen.
 ## Levels
 Level 1: A warmup level with one single block and one ball. 
-![First level image](screenshots/first_level.png =100x20)
+![First level image](screenshots/first_level.png)
+<img src="screenshots/first_level.png" alt="firstlevel" width="200"/>
 Level 2: You have a huge paddle with many balls.
 ![Second level image](screenshots/second_level.png)
 Level 3: You have 2 balls and a small paddle, try and beat! (It won't be easy)

@@ -14,6 +14,6 @@ A warmup level with one single block and one ball.
 You have a huge paddle with many balls.
 <img src="screenshots/second_level.png" alt="secondlevel" width="700" height="500"/>
 </br>
-###Level 3:
+### Level 3:
 You have 2 balls and a small paddle, try and beat! (It won't be easy)
 <img src="screenshots/third_level.png" alt="thirdlevel" width="700" height="500"/>

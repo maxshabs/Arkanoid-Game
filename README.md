@@ -8,7 +8,7 @@ Completing a level requires breaking all the bricks without letting the ball fal
 ## Levels
 Level 1: A warmup level with one single block and one ball. 
 ![First level image](screenshots/first_level.png)
-<img src="screenshots/first_level.png" alt="firstlevel" width="200"/>
+<img src="screenshots/first_level.png" alt="firstlevel" width="700" height="500"/>
 Level 2: You have a huge paddle with many balls.
 ![Second level image](screenshots/second_level.png)
 Level 3: You have 2 balls and a small paddle, try and beat! (It won't be easy)

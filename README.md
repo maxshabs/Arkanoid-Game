@@ -16,6 +16,6 @@ The final and most difficult level with a smaller paddle and two balls. You’ll
 <img src="screenshots/third_level.png" alt="thirdlevel" width="700" height="500"/>
 
 ## Installation:
-	1.	Clone the repository.
+ 1.	Clone the repository.
 	2.	Use the provided GUI library (biuoop-1.4.jar) to run the game.
 	3.	Compile and execute the game using your preferred IDE.

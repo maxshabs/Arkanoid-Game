@@ -6,11 +6,16 @@ The Player controls a paddle at the bottom of the screen and bouncing balls to d
 Completing a level requires breaking all the bricks without letting the ball fall out of the screen.
 ## Levels:
 ### Level 1
-A warmup level with one single block and one ball.</br>
+A warmup level with one block and one ball.</br>
 <img src="screenshots/first_level.png" alt="firstlevel" width="700" height="500"/></br>
 ### Level 2
-You have a huge paddle with many balls.</br>
+You control a huge paddle with multiple balls, making it more challenging to manage.</br>
 <img src="screenshots/second_level.png" alt="secondlevel" width="700" height="500"/></br>
 ### Level 3
-You have 2 balls and a small paddle, try and beat! (It won't be easy)</br>
+The final and most difficult level with a smaller paddle and two balls. You’ll need to stay sharp to beat this!</br>
 <img src="screenshots/third_level.png" alt="thirdlevel" width="700" height="500"/>
+
+## Installation:
+	1.	Clone the repository.
+	2.	Use the provided GUI library (biuoop-1.4.jar) to run the game.
+	3.	Compile and execute the game using your preferred IDE.
